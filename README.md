@@ -6,5 +6,5 @@ Facility location problems can be commonly found in many industries, including l
 
 The study of facility location problems - also known as "location analysis" [1] - is a branch of operations research and computational geometry concerned with the optimal placement of facilities to minimize transportation costs while considering factors like safety (e.g. by avoiding placing hazardous materials near housing) and the location of  competitors' facilities.
 
-    ## Applications
+    **##  Applications**
 Facility location problems have applications in a wide variety of industries. For supply chain management and logistics, this problem  can be used to find the optimal location for stores, factories, warehouses, etc. Other applications range from public policy (e.g. positioning  police officers in a city), telecommunications (e.g. cell towers in a network), and even particle physics (e.g. separation distance between repulsive charges). Another application of the facility location problem is to determine the locations for natural gas transmission equipment. Finally, facility location problems can be applied to cluster analysis.
